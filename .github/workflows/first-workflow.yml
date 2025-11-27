@@ -7,5 +7,5 @@ jobs:
       - name: first message
         run: echo "Hello World"
       - name: second message
-        run: "Bye"
+        run: echo "Bye"
       
